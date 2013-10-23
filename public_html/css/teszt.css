@@ -13,4 +13,7 @@ and open the template in the editor.
         border:2px solid #f2f2f2;
     }
 }
+.head {
+    background: orange;
+}
 
